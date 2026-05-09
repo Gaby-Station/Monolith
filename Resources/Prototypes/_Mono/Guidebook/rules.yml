@@ -1,7 +1,7 @@
 - type: guideEntry
   id: MonolithRuleset
   name: guide-entry-monolith-rules
-  text: "/ServerInfo/_Mono/Guidebook/Rules/MonolithRuleset.xml"
+  text: "/ServerInfo/_Dumont/Guidebook/Rules/MonolithRuleset.xml" # Dumont rules
   priority: -2
   ruleEntry: true
   children:
@@ -35,13 +35,13 @@
 - type: guideEntry
   id: MonolithRuleCoreOneCommonSense
   name: guide-entry-monolith-rule-core-one-common-sense
-  text: "/ServerInfo/_Mono/Guidebook/Rules/One_CommonSense.xml"
+  text: "/ServerInfo/_Dumont/Guidebook/Rules/One_CommonSense.xml" # Dumont rules
   ruleEntry: true
 
 - type: guideEntry
   id: MonolithRuleCoreTwoRespect
   name: guide-entry-monolith-rule-core-two-respect
-  text: "/ServerInfo/_Mono/Guidebook/Rules/Two_Respect.xml"
+  text: "/ServerInfo/_Dumont/Guidebook/Rules/Two_Respect.xml" # Dumont rules
   ruleEntry: true
 
 - type: guideEntry
@@ -53,13 +53,13 @@
 - type: guideEntry
   id: MonolithRuleCoreFourAlternativeAccounts
   name: guide-entry-monolith-rule-core-four-alternative-accounts
-  text: "/ServerInfo/_Mono/Guidebook/Rules/Four_AlternativeAccounts.xml"
+  text: "/ServerInfo/_Dumont/Guidebook/Rules/Four_AlternativeAccounts.xml" # Dumont rules
   ruleEntry: true
 
 - type: guideEntry
   id: MonolithRuleCoreFiveLanguages
   name: guide-entry-monolith-rule-core-five-languages
-  text: "/ServerInfo/_Mono/Guidebook/Rules/Five_Languages.xml"
+  text: "/ServerInfo/_Dumont/Guidebook/Rules/Five_Languages.xml" # Dumont rules
   ruleEntry: true
 
 - type: guideEntry
@@ -152,7 +152,7 @@
 - type: guideEntry
   id: MonolithRuleConflictFourPortStriking
   name: guide-entry-monolith-rule-conflict-four-port-striking
-  text: "/ServerInfo/_Mono/Guidebook/Rules/Conflict/Four_PortStriking.xml"
+  text: "/ServerInfo/_Dumont/Guidebook/Rules/Conflict/Four_PortStriking.xml" # Dumont rules
   ruleEntry: true
 
 # /Conflict Rules

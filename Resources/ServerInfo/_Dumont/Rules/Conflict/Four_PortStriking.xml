@@ -1,0 +1,18 @@
+<Document>
+# Regra de Conflito 4
+## Atacar postos avançados não é permitido.
+[bold]Consulte a [textlink="regra de Zonas Seguras" link="MonolithRuleRoleplayEightSafeZones"] para áreas que estão sempre protegidas contra ataques.[/bold]
+
+Postos avançados de facção (por exemplo, [color=blue]Halcyon[/color]) [color=red][bold]não podem[/bold][/color] ser atacados até que [color=yellow]um anúncio do High Command[/color] permitindo isso seja feito, ou se [color=yellow]a permissão da administração[/color] for concedida.
+-- Para maior clareza, um "ataque" neste contexto refere-se a qualquer ação hostil (organizada ou não) destinada a danificar postos avançados, tomar o controle, eliminar seus ocupantes ou danificar naves atracadas/desatracadas dentro de um raio de 256 metros que não estiveram recentemente ([color=yellow][bold]2 minutos[/bold][/color]) envolvidas em combate.
+-- Devem ser tomadas medidas para evitar campar (guardar caixão) nas áreas de surgimento dentro dos postos avançados, se possível.
+
+Bases móveis (por exemplo, [color=maroon]PDV Jupiter[/color]) [color=red][bold]não[/bold][/color] estão sujeitas a estas regras.
+
+[color=yellow]As naves estão [bold]isentas[/bold] desta regra quando escapam do combate para o seu posto avançado. É permitido atacar naves docadas se elas estiveram em combate nos últimos dois minutos, embora você deva [/color][color=red]minimizar[/color][color=yellow] os danos ao próprio posto.[/color]
+
+[color=orange]Fugas da prisão[/color] de jogadores detidos, tanto da facção quanto de fora dela, [color=red][bold]não[/bold][/color] se enquadram nessas regras.
+-- [color=orange]Jogadores detidos[/color] podem danificar o local onde estão presos, abrir caminho para uma saída à força, ferir outros jogadores e roubar navios de postos avançados para escapar, [bold]se necessário[/bold].
+-- Se alguém for morto, os corpos não devem ser intencionalmente escondidos ou tornados irrecuperáveis. Você não precisa reviver ninguém.
+-- Você [color=red][bold]não[/bold][/color] deve sabotar um posto avançado. Como cortar fios, destruir escudos, geradores ou consoles de artilharia. Jogadores detidos [color=red][bold]não[/bold][/color] podem ajuda externa ao escapar.
+</Document>
